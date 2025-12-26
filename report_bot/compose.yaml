@@ -1,0 +1,9 @@
+services:
+  report-bot:
+    build: ./bot
+    container_name: dlx-report-bot
+    restart: always
+    env_file:
+      - ./.env
+    volumes:
+      - ./bot:/app

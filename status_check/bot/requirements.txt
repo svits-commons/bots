@@ -1,0 +1,3 @@
+requests==2.32.4
+aiogram==3.20.0.post0
+apscheduler==3.11.0

@@ -1,0 +1,10 @@
+aiogram==3.19.0
+pytz==2025.2
+tortoise-orm==0.25.0
+aerich==0.8.2
+tomli==2.2.1
+tomlkit==0.13.2
+holidays==0.71
+apscheduler==3.11.0
+tzlocal==5.3.1
+telethon==1.40.0

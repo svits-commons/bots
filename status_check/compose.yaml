@@ -1,0 +1,9 @@
+services:
+  status-bot:
+    build: ./bot
+    container_name: dlx-status-bot
+    restart: always
+    env_file:
+      - ./.env
+    volumes:
+      - ./bot:/app
