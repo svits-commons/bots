@@ -1,6 +1,7 @@
 aiogram==3.19.0
 pytz==2025.2
 tortoise-orm==0.25.0
+aiosqlite==0.17.0
 aerich==0.8.2
 tomli==2.2.1
 tomlkit==0.13.2
